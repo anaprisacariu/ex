@@ -7,6 +7,7 @@ public class FirstClass {
 
 		System.out.println("Buna ziua!");
 		System.out.println("Ce faceti?");
+		new SecondClass();
 	}
 
 }
