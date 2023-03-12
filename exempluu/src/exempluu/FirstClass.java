@@ -8,6 +8,7 @@ public class FirstClass {
 		System.out.println("Buna ziua!");
 		System.out.println("Ce faceti?");
 		System.out.println("Bine, tu?");
+		System.out.println("Bine, stau.");
 	}
 
 }
